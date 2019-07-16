@@ -19,4 +19,4 @@ def max_substring_with_k_unique(s):
         result_sub = curr_sub[:]
   return result_sub
 s='aadabbaba'
-print(solution(s, 2))
+print(solution(s))
