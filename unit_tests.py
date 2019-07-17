@@ -1,5 +1,5 @@
 import unittest
-from main import max_substring_with_k_unique
+from main3 import max_substring_with_k_unique
 
 class TestCases(unittest.TestCase):
 

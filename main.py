@@ -21,5 +21,5 @@ def max_substring_with_k_unique(s):
   return result
 
 if __name__ == '__main__':
-    s='aadabbaba'
+    s='aabacbebebe'
     print(max_substring_with_k_unique(s))
